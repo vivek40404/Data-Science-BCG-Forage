@@ -1,0 +1,30 @@
+Subject: Approach to Tackling PowerCo's Issue
+Hi [AD's Name],
+Hope you're doing well. Estelle and I looked into PowerCo's issue and wanted to share how we plan to dig deeper and find a solution. Here's a straightforward breakdown:
+Defining the Problem:
+Our focus is on understanding why customers leave PowerCo. We'll use a step-by-step plan:
+1. Understand the Business: Figure out why customers stay or switch energy providers.
+2. Get the Right Data: Look at customer data from the past 5 years, including where they're located.
+3. Clean and Prepare the Data: Make sure the data is good for analysis.
+4. Use Models: Use computer programs to predict why customers might leave.
+5. Check and Learn: See if our predictions match what's happening and find ways to fix it.
+Factors Influencing Decisions:
+We think pricing, clean energy efforts, customer service, and location are big factors.
+Data Needed:
+To understand this better, we need:
+- Customer purchase history
+- Where customers live
+- Records of customer service
+- Pricing info over time
+How We'll Look at the Data:
+1. Group Customers: See if we can group customers based on their buying habits.
+2. Look at Trends: Check for patterns in customer behavior over the past 5 years.
+3. Map Where Customers Are: See if where customers live is linked to them leaving.
+4. Check Relationships: Look at how pricing changes, clean energy efforts, and service affect why customers leave.
+Next Steps:
+Once we have this info, we'll analyze it to understand why customers might leave and figure out how to fix it.
+Let us know if you have any thoughts or anything to add.
+Cheers,
+Sulege Vivek,
+Data Science,
+9390164265.
